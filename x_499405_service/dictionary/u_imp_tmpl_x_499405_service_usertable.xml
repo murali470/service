@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 499405 Service Usertable" max_length="40" name="u_imp_tmpl_x_499405_service_usertable" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Emailid" label="Emailid" max_length="40" name="u_emailid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Username" label="Username" max_length="40" name="u_username" type="string"/>
+    </element>
+</database>
